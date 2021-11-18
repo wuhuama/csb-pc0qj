@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://wuhuama.github.io/csb-pc0qj/static/css/main.f9910b98.chunk.css",
+    "main.js": "https://wuhuama.github.io/csb-pc0qj/static/js/main.56af98ca.chunk.js",
+    "main.js.map": "https://wuhuama.github.io/csb-pc0qj/static/js/main.56af98ca.chunk.js.map",
+    "runtime-main.js": "https://wuhuama.github.io/csb-pc0qj/static/js/runtime-main.203e8403.js",
+    "runtime-main.js.map": "https://wuhuama.github.io/csb-pc0qj/static/js/runtime-main.203e8403.js.map",
+    "static/js/2.ca965a61.chunk.js": "https://wuhuama.github.io/csb-pc0qj/static/js/2.ca965a61.chunk.js",
+    "static/js/2.ca965a61.chunk.js.map": "https://wuhuama.github.io/csb-pc0qj/static/js/2.ca965a61.chunk.js.map",
+    "index.html": "https://wuhuama.github.io/csb-pc0qj/index.html",
+    "static/css/main.f9910b98.chunk.css.map": "https://wuhuama.github.io/csb-pc0qj/static/css/main.f9910b98.chunk.css.map",
+    "static/js/2.ca965a61.chunk.js.LICENSE.txt": "https://wuhuama.github.io/csb-pc0qj/static/js/2.ca965a61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.203e8403.js",
+    "static/js/2.ca965a61.chunk.js",
+    "static/css/main.f9910b98.chunk.css",
+    "static/js/main.56af98ca.chunk.js"
+  ]
+}
